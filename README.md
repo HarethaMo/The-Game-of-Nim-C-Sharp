@@ -28,6 +28,6 @@ which mean the winning move is to reduce the third heap from 4 to 1, let's check
 
 NimSum = 000 = 0
 
-which means any move the player to play next makes will change the NimSum for 0 to another value, so they are loosing, and then the game go on like this until it ends.
+which means any move the player to play next makes will change the NimSum form 0 to another value, so they are loosing, and then the game go on like this until it ends.
 
 
